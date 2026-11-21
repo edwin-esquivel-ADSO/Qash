@@ -1,0 +1,32 @@
+# OS metadata
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+
+# Logs & Environment
+*.log
+.env
+.env.local
+.env.*.local
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependencies & Build artifacts (Web / Mobile)
+node_modules/
+dist/
+build/
+coverage/
+.gradle/
+*.apk
+*.aab
